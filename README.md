@@ -1,4 +1,4 @@
-# video-change
+# video-change(视频格式转换)
 由于我们无法在纯Python环境中直接实现图形界面的文件上传，因此这里将使用Tkinter来创建一个简单的GUI用于文件选择。
  另外，视频处理我们将使用OpenCV库。请确保已经安装了opencv-python和tkinter。
  步骤：
